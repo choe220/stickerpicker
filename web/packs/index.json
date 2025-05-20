@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "pusheen.json"
+  ],
+  "homeserver_url": "https://matrix.matthewtkrohn.com"
+}
